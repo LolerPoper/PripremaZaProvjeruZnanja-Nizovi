@@ -1,0 +1,8 @@
+D:\Codes\Isti index i vrijednost\Isti index i vrijednost\bin\Debug\Isti index i vrijednost.exe.config
+D:\Codes\Isti index i vrijednost\Isti index i vrijednost\bin\Debug\Isti index i vrijednost.exe
+D:\Codes\Isti index i vrijednost\Isti index i vrijednost\bin\Debug\Isti index i vrijednost.pdb
+D:\Codes\Isti index i vrijednost\Isti index i vrijednost\obj\Debug\Isti index i vrijednost.csproj.AssemblyReference.cache
+D:\Codes\Isti index i vrijednost\Isti index i vrijednost\obj\Debug\Isti index i vrijednost.csproj.SuggestedBindingRedirects.cache
+D:\Codes\Isti index i vrijednost\Isti index i vrijednost\obj\Debug\Isti index i vrijednost.csproj.CoreCompileInputs.cache
+D:\Codes\Isti index i vrijednost\Isti index i vrijednost\obj\Debug\Isti index i vrijednost.exe
+D:\Codes\Isti index i vrijednost\Isti index i vrijednost\obj\Debug\Isti index i vrijednost.pdb
