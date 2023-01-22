@@ -1,0 +1,8 @@
+D:\Codes\Parni i Neparni\Parni i Neparni\bin\Debug\Parni i Neparni.exe.config
+D:\Codes\Parni i Neparni\Parni i Neparni\bin\Debug\Parni i Neparni.exe
+D:\Codes\Parni i Neparni\Parni i Neparni\bin\Debug\Parni i Neparni.pdb
+D:\Codes\Parni i Neparni\Parni i Neparni\obj\Debug\Parni i Neparni.csproj.AssemblyReference.cache
+D:\Codes\Parni i Neparni\Parni i Neparni\obj\Debug\Parni i Neparni.csproj.SuggestedBindingRedirects.cache
+D:\Codes\Parni i Neparni\Parni i Neparni\obj\Debug\Parni i Neparni.csproj.CoreCompileInputs.cache
+D:\Codes\Parni i Neparni\Parni i Neparni\obj\Debug\Parni i Neparni.exe
+D:\Codes\Parni i Neparni\Parni i Neparni\obj\Debug\Parni i Neparni.pdb
